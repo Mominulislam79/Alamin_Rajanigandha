@@ -1,0 +1,50 @@
+a:link{
+    color: red;
+    background-color: yellow;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: tomato;
+}
+
+a:hover{
+    display: inline-block;
+    color: red;
+    background: yellow;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.Mominul:hover{
+    display: flex;
+    color: red;
+    background-color: green;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 7px;
+    transition: 0.3s;
+}
+h1{
+    border: 5px solid red;
+    display: inline;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+span{
+    border: 5px solid green;
+    display: block;
+}
+/* li{
+    display: inline-block;
+} */
+li{
+    display: inline-block;
+}
+
+div{
+    background: red;
+    width: 400px;
+    height: 400px;
+}
